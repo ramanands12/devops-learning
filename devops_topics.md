@@ -13,4 +13,10 @@
 13. Remote
 14. Pull Request
 15. CI/CD
+<<<<<<< HEAD
 16. Bash scripting
+=======
+16. Multiple Repositories
+17. Repository level backup
+
+>>>>>>> d79aafc71e6408a7c8fb87bd8d753fd70c022767
