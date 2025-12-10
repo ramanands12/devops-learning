@@ -15,4 +15,6 @@
 15. CI/CD
 16. Multiple Repositories
 17. Repository level backup
+18. AWS S3 Bucket
+19. Azure Cloud
 
