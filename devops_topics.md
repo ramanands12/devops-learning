@@ -21,4 +21,5 @@
 21. Kubernetes
 22. Micro services
 23. Infrastructure as code 
-24. 
+24. Image Containerization
+
