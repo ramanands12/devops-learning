@@ -19,3 +19,6 @@
 19. Azure Cloud
 20. Docker Linux
 21. Kubernetes
+22. Micro services
+23. Infrastructure as code 
+24. 
