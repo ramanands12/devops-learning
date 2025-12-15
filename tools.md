@@ -5,5 +5,5 @@
 5. Snowflake - Cloud based Data Platform
 6. Circle CI - Tool for Carrying CI operations
 7. Argo CD - Tool for Carrying CD Operations
-8. Bitbucket
-9. Cloudwatch
+8. Prometheus and graffana - Monitoring and Visualisation Tool
+
