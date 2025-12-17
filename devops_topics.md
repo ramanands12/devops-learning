@@ -22,4 +22,7 @@
 21. Micro services
 22. Infrastructure as code 
 23. Image Containerization
+24. IaaS, PaaS, SaaS
+25. Scrum Master
+26. Kanban Board
 

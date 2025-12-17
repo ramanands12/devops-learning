@@ -8,4 +8,6 @@
 8. Prometheus and Graffana - Monitoring and Visualisation Tool
 9. Chef
 10. Puppet
-
+11. Splunk
+12. Sonarcube
+13. Burpsuite
