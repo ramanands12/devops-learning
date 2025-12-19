@@ -25,4 +25,9 @@
 24. IaaS, PaaS, SaaS
 25. Scrum Master
 26. Kanban Board
+27. Agile Methodology
+28. Scrum-Call
+29. Kanban Board
+30. Iterative Development
+31. Build-Configuration
 
