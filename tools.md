@@ -11,3 +11,7 @@
 11. Splunk
 12. Sonarcube
 13. Burpsuite
+14. Podman
+15. Open-Shift
+16. Docker-Swarm
+17. AWS Cloud Formation
