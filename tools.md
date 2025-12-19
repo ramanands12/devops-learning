@@ -20,3 +20,4 @@
 20. Sonarqube - Code quality and security analysis platform integrated into CI/CD pipelines.
 21. NGINX - High-performance web server and reverse proxy used for load balancing and traffic management.
 22. Snyk - Developer-focused security tool to detect and fix vulnerabilities in code and dependencies.
+23. Github Actions - It is a CI/CD tool that automates building, testing, and deploying code directly from a GitHub repository using workflows triggered by events like push or pull requests.

@@ -30,4 +30,8 @@
 29. Kanban Board
 30. Iterative Development
 31. Build-Configuration
-
+32. Docker Images
+33. Volumes
+34. Containers
+35. Registry
+36. Docker-Compose 
